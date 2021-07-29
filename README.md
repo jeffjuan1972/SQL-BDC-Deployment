@@ -11,8 +11,11 @@
   <li>7zip</li>
   <li>qlserver-cmdlineutils</li>
  
- ### 2. single-node-kubeadm.sh
+### 2. single-node-kubeadm.sh
  安裝 Kubernetes 指令
  
- ### 3. PrePull-Docker-images.sh
+### 3. PrePull-Docker-images.sh
  下載所有 BDC 需要的 Docker images 
+
+### 4. setup-volumes-agent.sh
+   為 persistant volumes 建立 volumes
