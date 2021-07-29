@@ -1,6 +1,6 @@
 #!/bin/bash
 set -Eeuo pipefail
-export DOCKER_TAG="2019-CU8-ubuntu-16.04"
+export DOCKER_TAG="2019-CU10-ubuntu-20.04"
 IMAGES=(
 	mssql-app-service-proxy
         mssql-control-watchdog
